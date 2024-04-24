@@ -5,9 +5,9 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif; /* Changed font to Roboto */
-  background-color: #4CAF50; /* Changed background color to green */
-  color: #333; /* Changed text color */
+  font-family: 'Roboto', sans-serif;
+  background-color: #4CAF50;
+  color: #333;
 }
 
 .container {
@@ -19,6 +19,7 @@ header {
   background-color: #333;
   color: #fff;
   padding: 20px 0;
+  text-align: center;
 }
 
 header h1 {
@@ -41,17 +42,24 @@ nav ul li a {
 
 section {
   padding: 40px 0;
+  text-align: center;
 }
 
 section h2 {
   margin-bottom: 20px;
-  color: #fff; /* Changed heading color */
+  color: #fff;
 }
 
 .project {
   margin-bottom: 20px;
-  background-color: #fff; /* Added background color for project sections */
+  background-color: #fff;
   padding: 20px;
+  border-radius: 5px; /* Added rounded corners to project boxes */
+}
+
+.experience {
+  margin-bottom: 20px;
+  text-align: left;
 }
 
 footer {
