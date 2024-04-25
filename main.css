@@ -50,6 +50,14 @@ section h2 {
   color: #fff;
 }
 
+.about {
+  margin-bottom: 20px;
+  text-align: left;
+  background-color: #fff;
+  padding: 20px;
+  border-radius:
+}
+
 .project {
   margin-bottom: 20px;
   background-color: #fff;
@@ -58,14 +66,6 @@ section h2 {
 }
 
 .experience {
-  margin-bottom: 20px;
-  text-align: left;
-  background-color: #fff;
-  padding: 20px;
-  border-radius:
-}
-
-.about {
   margin-bottom: 20px;
   text-align: left;
   background-color: #fff;
