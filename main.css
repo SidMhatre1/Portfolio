@@ -65,6 +65,22 @@ section h2 {
   border-radius:
 }
 
+.about {
+  margin-bottom: 20px;
+  text-align: left;
+  background-color: #fff;
+  padding: 20px;
+  border-radius:
+}
+
+.contact {
+  margin-bottom: 20px;
+  text-align: left;
+  background-color: #fff;
+  padding: 20px;
+  border-radius:
+}
+
 footer {
   background-color: #333;
   color: #fff;
