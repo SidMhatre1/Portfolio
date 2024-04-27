@@ -50,14 +50,6 @@ section h2 {
   color: #fff;
 }
 
-.about {
-  margin-bottom: 20px;
-  text-align: left;
-  background-color: #fff;
-  padding: 20px;
-  border-radius:
-}
-
 .project {
   margin-bottom: 20px;
   background-color: #fff;
@@ -73,22 +65,13 @@ section h2 {
   border-radius:
 }
 
-.events {
+.about, .contact, .events {
   margin-bottom: 20px;
-  text-align: left;
   background-color: #fff;
   padding: 20px;
-  border-radius:
+  border-radius: 5px;
+  text-align: left; /* Align text to the left */
 }
-
-.contact {
-  margin-bottom: 20px;
-  text-align: left;
-  background-color: #fff;
-  padding: 20px;
-  border-radius:
-}
-
 footer {
   background-color: #333;
   color: #fff;
