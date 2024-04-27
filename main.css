@@ -20,9 +20,10 @@ header {
   color: #fff;
   padding: 20px 0;
   text-align: center;
-  position: fixed; /* Fixed positioning */
-  top: 0; /* Place at the top of the viewport */
+  position: fixed; /* Fix header at the top */
+  top: 0; /* Distance from top */
   width: 100%; /* Full width */
+  z-index: 999; /* Ensure it's above other content */
 }
 
 header h1 {
